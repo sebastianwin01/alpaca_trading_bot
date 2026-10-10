@@ -1,0 +1,18 @@
+# API credentials
+.env
+.env.*
+!.env.example
+
+# macOS and IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Screenshots
+screenshots
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
